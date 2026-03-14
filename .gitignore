@@ -1,2 +1,4 @@
 *.DS_Store
 */data/**
+Lab4-M2-IASD-app/data/**
+.pth
