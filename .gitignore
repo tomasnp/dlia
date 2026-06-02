@@ -1,4 +1,7 @@
 *.DS_Store
 */data/**
 Lab4-M2-IASD-app/data/**
-.pth
+*.pth
+*.gz
+oxford-iiit-pet/
+*/oxford-iiit-pet/
